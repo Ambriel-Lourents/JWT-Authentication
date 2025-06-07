@@ -1,4 +1,4 @@
-# Json Web Token Authentication
+# JSON Web Token Authentication
 
 - This is the first jwt project i've ever made.
 
